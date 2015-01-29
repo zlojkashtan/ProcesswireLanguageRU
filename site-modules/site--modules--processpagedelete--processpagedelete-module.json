@@ -1,0 +1,21 @@
+{
+    "file": "site\/modules\/ProcessPageDelete\/ProcessPageDelete.module",
+    "textdomain": "site--modules--processpagedelete--processpagedelete-module",
+    "translations": {
+        "f2a6c498fb90ee345d997f888fce3b18": {
+            "text": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c"
+        },
+        "827884bd1b673b7e58def7d09bf59b8b": {
+            "text": "\u0423\u0434\u0430\u043b\u0435\u043d\u043e \u0441\u0442\u0440\u0430\u043d\u0438\u0446: %s"
+        },
+        "05a5015935a459afea1a54da554854de": {
+            "text": "\u0423\u0434\u0430\u043b\u0435\u043d\u0438\u0435 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0438"
+        },
+        "729a51874fe901b092899e9e8b31c97a": {
+            "text": "\u0412\u044b \u0443\u0432\u0435\u0440\u0435\u043d\u044b?"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "\u041a\u043e\u0440\u0437\u0438\u043d\u0430"
+        }
+    }
+}

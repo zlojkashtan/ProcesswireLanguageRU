@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeDefault\/AdminThemeDefaultHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemedefault--adminthemedefaulthelpers-php",
+    "translations": {
+        "de9ced9bf5e9829de4a93ad8c9d7a170": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u0438\u0442\u044c"
+        },
+        "5e248eb2e87e649e91cc3168e20adf90": {
+            "text": "\u0421\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0441\u0430\u0439\u0442"
+        },
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "\u041f\u0440\u043e\u0444\u0438\u043b\u044c"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "\u0412\u044b\u0445\u043e\u0434"
+        }
+    }
+}

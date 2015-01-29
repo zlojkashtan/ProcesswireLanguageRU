@@ -1,0 +1,15 @@
+{
+    "file": "wire\/modules\/Inputfield\/InputfieldCheckboxes\/InputfieldCheckboxes.module",
+    "textdomain": "wire--modules--inputfield--inputfieldcheckboxes--inputfieldcheckboxes-module",
+    "translations": {
+        "d3f3236393ce7a48198cde99acaed365": {
+            "text": "\u041a\u043e\u043b\u043e\u043d\u043e\u043a \u0444\u043b\u0430\u0436\u043a\u043e\u0432"
+        },
+        "c425f296c6b905c91fb3f6da1a1702b6": {
+            "text": "\u0424\u043b\u0430\u0436\u043a\u0438"
+        },
+        "632ae34b804c1914c3a51af327a3379d": {
+            "text": "\u041d\u0435\u0441\u043a\u043e\u043b\u044c\u043a\u043e \u043f\u0435\u0440\u0435\u043a\u043b\u044e\u0447\u0430\u0442\u0435\u043b\u0435\u0439-\u0444\u043b\u0430\u0436\u043a\u043e\u0432"
+        }
+    }
+}

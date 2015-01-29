@@ -1,0 +1,18 @@
+{
+    "file": "site\/modules\/ProcessPagePublish\/ProcessPagePublish.module",
+    "textdomain": "site--modules--processpagepublish--processpagepublish-module",
+    "translations": {
+        "b1851b108861fd377ff27ce2f111e947": {
+            "text": "\u0432 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a\u0438"
+        },
+        "9b6d0bb3102b87fae57bc4a39149518e": {
+            "text": "\u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u0442\u044c"
+        },
+        "c3c577318e720d4f4d0b09a17a19eacf": {
+            "text": "\u041e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u0442\u044c \/ \u0432 \u0447\u0435\u0440\u043d\u043e\u0432\u0438\u043a\u0438 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443"
+        },
+        "7c246cbe7579684a1457f03109bc5820": {
+            "text": "\u0414\u043e\u0431\u0430\u0432\u043b\u044f\u0435\u0442 \u0441\u0441\u044b\u043b\u043a\u0443 \u0432 \u0441\u043f\u0438\u0441\u043e\u043a \u0444\u0430\u0439\u043b\u043e\u0432."
+        }
+    }
+}

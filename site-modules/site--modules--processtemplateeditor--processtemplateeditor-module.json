@@ -1,0 +1,15 @@
+{
+    "file": "site\/modules\/ProcessTemplateEditor\/ProcessTemplateEditor.module",
+    "textdomain": "site--modules--processtemplateeditor--processtemplateeditor-module",
+    "translations": {
+        "e838b63505c498050eccbcd6090a8262": {
+            "text": "\u0420\u0435\u0434\u0430\u043a\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0448\u0430\u0431\u043b\u043e\u043d"
+        },
+        "49ee3087348e8d44e1feda1917443987": {
+            "text": "\u0418\u043c\u044f"
+        },
+        "88c91f49276bd4444ea16db5c629aa85": {
+            "text": "\u0420\u0435\u0434\u0430\u043a\u0442\u043e\u0440 \u0448\u0430\u0431\u043b\u043e\u043d\u043e\u0432"
+        }
+    }
+}
